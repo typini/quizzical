@@ -1,0 +1,26 @@
+h2 {
+  text-align: center;
+}
+
+.answer {
+  color: red;
+  padding: 20px;
+  text-align: center;
+  font-weight: 900;
+}
+
+.correct {
+  color: green;
+}
+
+a {
+  display: block;
+  text-align: center;
+  border: 2px black solid;
+  border-radius: 3px;
+  margin: auto;
+  margin-top: 18px;
+  padding: 2px;
+  max-width: 240px;
+  background-color: rgba(220, 220, 220, 0.5);
+}

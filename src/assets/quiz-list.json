@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Maths",
+    "name": "maths",
+    "description": "Questions about maths",
+    "fileName": "maths.json"
+  },
+  {
+    "label": "French",
+    "name": "french",
+    "description": "Questions about french",
+    "fileName": "french.json"
+  },
+  {
+    "label": "Music",
+    "name": "music",
+    "description": "Questions about music",
+    "fileName": "music.json"
+  },
+  {
+    "label": "Photopgraphy",
+    "name": "photography",
+    "description": "Questions about photography",
+    "fileName": "photography.json"
+  },
+  {
+    "label": "Chess",
+    "name": "chess",
+    "description": "Questions about chess",
+    "fileName": "chess.json"
+  }
+]

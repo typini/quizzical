@@ -1,0 +1,107 @@
+[
+  {
+    "label": "Which aperature lets more light in?",
+    "choices": [
+      {
+        "value": "f1.2",
+        "correct": true
+      },
+      {
+        "value": "f5.6",
+        "correct": false
+      },
+      {
+        "value": "f9",
+        "correct": false
+      },
+      {
+        "value": "f22",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which of the following statements is true aboue depth of field?",
+    "choices": [
+      {
+        "value": "There is no such thing as infinite depth of field.",
+        "correct": false
+      },
+      {
+        "value": "A prime lens does not allow depth of field.",
+        "correct": false
+      },
+      {
+        "value": "Depth of field is a famous farmland in Pennsylvania.",
+        "correct": false
+      },
+      {
+        "value": "The smaller the f-stop, the narrower the depth of field will be.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What focal length does a human perceive reality, when compared to a full-frame camera?",
+    "choices": [
+      {
+        "value": "12mm",
+        "correct": false
+      },
+      {
+        "value": "50mm",
+        "correct": true
+      },
+      {
+        "value": "72mm",
+        "correct": false
+      },
+      {
+        "value": "200mm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which angle lens would be consider fish-eye?",
+    "choices": [
+      {
+        "value": "8mm",
+        "correct": true
+      },
+      {
+        "value": "50mm",
+        "correct": false
+      },
+      {
+        "value": "200mm",
+        "correct": false
+      },
+      {
+        "value": "300mm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What does 'fast lens' mean?",
+    "choices": [
+      {
+        "value": "If your lens had legs, it would run really quickly.",
+        "correct": false
+      },
+      {
+        "value": "It means it has the ability to close its aperature completely allowing no light to enter.",
+        "correct": false
+      },
+      {
+        "value": "The lens is marketed to sell quickly.",
+        "correct": false
+      },
+      {
+        "value": "It means the lense will support a high f-stop number allowing lots of light",
+        "correct": true
+      }
+    ]
+  }
+]

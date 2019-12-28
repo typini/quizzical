@@ -1,0 +1,17 @@
+<div class="welcome" *ngIf="quiz">
+  <h2>Select a Quiz</h2>
+  <table>
+    <tr>
+      <th>Quiz Name</th>
+      <th>Description</th>
+      <th>Start</th>
+    </tr>
+    <tr class="quizzes" *ngFor="let q of quiz">
+      <td>{{q.label}}</td>
+      <td>{{q.description}}</td>
+      <td>
+        <a routerLink="/{{q.name}}" class="go">GO!</a>
+      </td>
+    </tr>
+  </table>
+</div>

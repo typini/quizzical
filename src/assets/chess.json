@@ -1,0 +1,107 @@
+[
+  {
+    "label": "Which pieces are valued around 3 points each?",
+    "choices": [
+      {
+        "value": "The King and a Pawn",
+        "correct": false
+      },
+      {
+        "value": "The Rooks.",
+        "correct": false
+      },
+      {
+        "value": "The Queen, but only when you have two or more.",
+        "correct": false
+      },
+      {
+        "value": "The Bishops and the Knights",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What does checkmate mean?",
+    "choices": [
+      {
+        "value": "The king is under pressure of an opposing piece and its player cannot alieviate the pressure with one move only.",
+        "correct": true
+      },
+      {
+        "value": "The king cannot move beause it is surrounded by other pieces.",
+        "correct": false
+      },
+      {
+        "value": "One player gave up and forfeited.",
+        "correct": false
+      },
+      {
+        "value": "Each player is unable to move.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which of the following is NOT a way for a player to get out of check?",
+    "choices": [
+      {
+        "value": "Move the king away from danger.",
+        "correct": false
+      },
+      {
+        "value": "Impose a piece in the path of danger.",
+        "correct": false
+      },
+      {
+        "value": "Castle the King and the Rook.",
+        "correct": true
+      },
+      {
+        "value": "Capture the piece pressuring the king.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How many squares are on a standard chess gameboard?",
+    "choices": [
+      {
+        "value": "25",
+        "correct": false
+      },
+      {
+        "value": "36",
+        "correct": false
+      },
+      {
+        "value": "49",
+        "correct": false
+      },
+      {
+        "value": "64",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What does fianchetto mean?",
+    "choices": [
+      {
+        "value": "A pawn forks two higher valued pieces.",
+        "correct": false
+      },
+      {
+        "value": "A bishop pressures one of the longest diagonals on the board.",
+        "correct": true
+      },
+      {
+        "value": "The King castled on the queen side.",
+        "correct": false
+      },
+      {
+        "value": "A pawn reached the other side of the board.",
+        "correct": false
+      }
+    ]
+  }
+]

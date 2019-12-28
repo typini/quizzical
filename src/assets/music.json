@@ -1,0 +1,107 @@
+[
+  {
+    "label": "Which category does not describe musical instruments?",
+    "choices": [
+      {
+        "value": "Percussion",
+        "correct": false
+      },
+      {
+        "value": "Winds",
+        "correct": false
+      },
+      {
+        "value": "Strings",
+        "correct": false
+      },
+      {
+        "value": "Fires",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Which instrument does not belong in the Strings family?",
+    "choices": [
+      {
+        "value": "Violin",
+        "correct": false
+      },
+      {
+        "value": "Oboe",
+        "correct": true
+      },
+      {
+        "value": "Viola",
+        "correct": false
+      },
+      {
+        "value": "Violoncello",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How many lines are in a standard musical staff?",
+    "choices": [
+      {
+        "value": "1",
+        "correct": false
+      },
+      {
+        "value": "3",
+        "correct": false
+      },
+      {
+        "value": "4",
+        "correct": false
+      },
+      {
+        "value": "5",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Which line represents the correct order of sharps?",
+    "choices": [
+      {
+        "value": "beadgcf",
+        "correct": false
+      },
+      {
+        "value": "cgdaebf",
+        "correct": false
+      },
+      {
+        "value": "fcgdaeb",
+        "correct": true
+      },
+      {
+        "value": "abcdefg",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What note falls on the center line of the Alto clef?",
+    "choices": [
+      {
+        "value": "C",
+        "correct": true
+      },
+      {
+        "value": "D",
+        "correct": false
+      },
+      {
+        "value": "F",
+        "correct": false
+      },
+      {
+        "value": "G",
+        "correct": false
+      }
+    ]
+  }
+]
