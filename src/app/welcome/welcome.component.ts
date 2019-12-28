@@ -10,7 +10,7 @@ import { QuestionsService } from '../questions.service';
 })
 export class WelcomeComponent {
 
-  private quiz;
+  public quiz;
 
   constructor (private questionsService: QuestionsService) {
     this.questionsService.getQuizzes().subscribe(data => {
