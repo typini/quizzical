@@ -12,7 +12,7 @@ export class WelcomeComponent {
 
   public quiz;
 
-  constructor (private questionsService: QuestionsService) {
+  constructor (public questionsService: QuestionsService) {
     this.questionsService.getQuizzes().subscribe(data => {
       this.quiz = data;
     });
